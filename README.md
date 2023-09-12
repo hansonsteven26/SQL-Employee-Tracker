@@ -6,7 +6,7 @@ With this program, you can seed an employee database, and you can add to it and 
 
 ## Usage
 
-While in the root folder, type "npm start" or "node server.js"
+While in the root folder, type "npm start" or "node server.js" in the terminal.
 
 ## Demo
 
