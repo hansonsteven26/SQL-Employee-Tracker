@@ -1,0 +1,27 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee database using SQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansonsteven26/SQL-Employee-Tracker.git"
+  },
+  "keywords": [
+    "SQL"
+  ],
+  "author": "Steven Hanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansonsteven26/SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/hansonsteven26/SQL-Employee-Tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.1"
+  }
+}
