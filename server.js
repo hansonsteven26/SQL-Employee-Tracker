@@ -34,14 +34,14 @@ inquirer
                 'Add a department',
                 'Add a role',
                 'Add an employee',
-                'Update an employee',
+                'Update an employee role',
             ],
             name: 'choice',
         },
     ])
     .then((response) => {
         response.choice = response.choice.toLowerCase();
-        if (response.choice == "update an employee") {
+        if (response.choice == "update an employee role") {
             // let employees = viewEmployees(newArray)
             // console.log(employees)
             inquirer.prompt([
@@ -107,7 +107,7 @@ inquirer
                     },
                     {
                         type: 'input',
-                        message: 'What department does this role belong to?',
+                        message: 'What department ID does this role belong to?',
                         name: 'newRoleDeptId',
                     },
                 ])
