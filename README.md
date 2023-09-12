@@ -10,7 +10,7 @@ While in the root folder, type "npm start" or "node server.js" in the terminal.
 
 ## Demo
 
-Watch a video demonstration [here](https://www.awesomescreenshot.com/video/20690521?key=fefb448126178027bb0f4693ca0bb2bc)
+Watch a video demonstration [here](https://www.awesomescreenshot.com/video/20690986?key=470cec09d3dd0290d9a1f5ee66d31126)
 
 ## Questions
 
